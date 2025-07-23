@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H7ISNXdZT52xEkGkYJc5MdcYyfcmKmQ4svx9BoRJIfg=",
+  "Source": "APITracker.API",
+  "BasePath": "_content/APITracker.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
